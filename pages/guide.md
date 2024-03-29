@@ -1,4 +1,7 @@
 ---
+permalink: /guide.html
+layout: Post
+content-type: static
 title: Guide
 ---
 
