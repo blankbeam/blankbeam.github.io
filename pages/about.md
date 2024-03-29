@@ -4,6 +4,7 @@ layout: Post
 content-type: static
 title: About
 ---
+<img src="../assets/img/about.png" width="100%">
 
 BLANK BEAM은 성수동의 중심에 자리잡고 있는 멀티페이스 공간으로, 100평 규모의 공장을 탈바꿈한 이곳은 공간 렌탈, 상업사진 촬영, 팝업스토어 운영을 아우르는 복합적 기능을 제공합니다.
 
