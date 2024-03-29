@@ -1,4 +1,4 @@
-url: "https://blankbeam.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blankbeam.com"
 
 # If you want to install this jekyll in a subpath (eg /digitalgarden) set it here. 
 # Else keep it Empty (DON'T PUT /; Keep it empty)
@@ -9,8 +9,8 @@ baseurl: ""
 heading: BLANK BEAM
 content: A studio space for rent in Seongsu, designed for professional photography shoots.
 copyright:  
-  year: © 2024
-  msg: studio BLANK BEAM
+  year: ©2024
+  msg: BLANK BEAM
 
 # Set title and content for private & broken link tooltop
 privatelinks:
